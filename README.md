@@ -1,37 +1,42 @@
 # Hi, I'm Ghassan! 👋
 
-I'm an enthusiastic M.Tech Computer Science student at Nişantaşı University, fueled by a passion for technology and a love for video editing. My journey revolves around diving into the world of computer science, exploring new concepts, and sharing insights with the community.
+I am a **Computer Engineer** focused on backend architecture, scalable system design, and workflow automation. I specialize in building clean, high-impact software solutions with an emphasis on API-first development, structured design patterns, and containerized infrastructure.
 
-![gssibai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gssibai&theme=vue-dark&hide_border=true)
-![gssibai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gssibai&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gssibai&theme=vue-dark&hide_border=true" alt="Ghassan's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gssibai&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Ghassan's Top Languages" />
+</p>
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently completing my Bachelor's in Computer Engineering at Nişantaşı University.
+## 🚀 Core Expertise
 
+* 💻 **Backend Architecture:** Designing robust web services using vertical slice architecture, secure API-first development, and relational database optimization.
+* ⚙️ **DevOps & Infrastructure:** Managing server configurations, containerizing applications with Docker, and building automation pipelines to eliminate operational bottlenecks.
+* 🍏 **Native Development:** Engineering native desktop utilities and custom software tools within the macOS ecosystem using Swift and Xcode.
 
+## 🛠️ Tech Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,c,php,cs,laravel,dotnet,mysql,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,docker,js,react,c,cs,dotnet)](https://skillicons.dev)
 
+---
 
- ## 🏆 Achievements
+## 🏆 Featured Repositories
 
-- 🌟 Best Project in OOP Class – Check it out [here](https://github.com/gssibai/sbms-java)
-- 🌟 Best Project in First Semester – Explore it [here](https://github.com/gssibai/bnkmngsys)
+* **[Core System Design](https://github.com/gssibai/sbms-java)** – An implementation showcasing strict adherence to Object-Oriented Programming (OOP) principles and robust application architecture.
+* **[Financial Management Logic](https://github.com/gssibai/bnkmngsys)** – A structural codebase demonstrating transaction safety, modular software components, and state management.
 
+---
 
-## 😸 Hobbies
+## 📬 Connect With Me
 
-- Some of the things I enjoy in my free time:
+Let's discuss backend engineering, system architecture, or B2B SaaS infrastructure:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,ae,pr,ps)]
+* **LinkedIn:** [linkedin.com/in/gssibai](https://www.linkedin.com/in/gssibai/)
+* **GitHub:** Explore my repositories to see my development workflows and code production standards.
 
-## 📬 Get in Touch
+---
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/gssibai/)
-
-  
-## 📍 Wrapping Up
-- Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+<p align="center"><i>Building scalable systems, containerizing environments, and optimizing engineering workflows. 🚀</i></p>
